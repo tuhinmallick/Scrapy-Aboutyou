@@ -9,11 +9,6 @@ This may not work lately, majority of websites change their classes/structure to
 
 You are responsible of what you'll do with this!
 
-
-<p align="center">
-  <img src="/Scrapy-Aboutyou/aboutyou/Images/scrapy-terminal.png">
-</p>
+![](aboutyou/Images/scrapy-terminal.png)
 <br>
-<p align="center">
-  <img src="/Scrapy-Aboutyou/aboutyou/Images/csv-capture.png">
-</p>
+![](aboutyou/Images/csv-capture.png)
