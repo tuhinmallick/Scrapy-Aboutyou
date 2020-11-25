@@ -7,8 +7,8 @@ Avoid getting blocked using a private-vpn
 
 This may not work lately, majority of websites change their classes/structure to avoid this spiders/bots.
 
-You are responsible of what you'll do with this!
+I am not responsible of what you'll do with this!
 
-![](aboutyou/Images/scrapy-terminal.png)
+![](aboutyou/Images/scrapy-terminal.PNG)
 <br>
-![](aboutyou/Images/csv-capture.png)
+![](aboutyou/Images/csv-capture.PNG)
