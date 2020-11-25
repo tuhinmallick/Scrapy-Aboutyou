@@ -11,9 +11,9 @@ You are responsible of what you'll do with this!
 
 
 <p align="center">
-  <img src="/aboutyou/Images/scrapy-terminal.png">
+  <img src="/Scrapy-Aboutyou/aboutyou/Images/scrapy-terminal.png">
 </p>
 <br>
 <p align="center">
-  <img src="/aboutyou/Images/csv-capture.png">
+  <img src="/Scrapy-Aboutyou/aboutyou/Images/csv-capture.png">
 </p>
