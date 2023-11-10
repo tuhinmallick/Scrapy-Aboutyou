@@ -47,9 +47,13 @@ class AboutyouSpider(scrapy.Spider):
 
             jacket_img = jackets.xpath('//div[@class="sc-1kws8ub-0 dsjkVe"]/img/@src').get()
 
-            items = dict(title=title, price1=price1, price2=price2, size=size, jacket_img=jacket_img)
-            yield items
-
+            yield dict(
+                title=title,
+                price1=price1,
+                price2=price2,
+                size=size,
+                jacket_img=jacket_img,
+            )
         # next page if exits
         self.params['page'] += self.page
         self.params['sort'] = str(self.params['page'])
